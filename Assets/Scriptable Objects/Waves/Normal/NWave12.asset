@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b614b7de4b0ed04493330a06d23e35e, type: 3}
+  m_Name: NWave12
+  m_EditorClassIdentifier: 
+  FullWave:
+  - {fileID: 11400000, guid: 274ea7ac3e2a24c0285c4c8be9547a4d, type: 2}
+  - {fileID: 11400000, guid: 539acffc75fc24fdd9c5cf460513912a, type: 2}
+  - {fileID: 11400000, guid: 4465363c3f6714459a42661db74055f8, type: 2}
+  - {fileID: 11400000, guid: 7034886103be34f4b8efdbb73d539069, type: 2}
+  - {fileID: 11400000, guid: 8941505fb08fd483f95bb5e88266a9f7, type: 2}
